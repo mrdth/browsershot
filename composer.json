@@ -10,7 +10,6 @@
             "screenshot",
             "browser",
             "phantomjs",
-            "laravel"
         ],
     "license": "MIT",
     "authors": [
@@ -21,7 +20,6 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.*|5.*",
         "intervention/image": "2.*"
     },
     "bin": [
