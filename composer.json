@@ -34,5 +34,5 @@
             "Spatie\\Browsershot": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
