@@ -9,7 +9,7 @@
             "image",
             "screenshot",
             "browser",
-            "phantomjs",
+            "phantomjs"
         ],
     "license": "MIT",
     "authors": [
@@ -36,3 +36,5 @@
     },
     "minimum-stability": "dev"
 }
+
+
