@@ -9,7 +9,7 @@
             "image",
             "screenshot",
             "browser",
-            "phantomjs",
+            "phantomjs"
         ],
     "license": "MIT",
     "authors": [
